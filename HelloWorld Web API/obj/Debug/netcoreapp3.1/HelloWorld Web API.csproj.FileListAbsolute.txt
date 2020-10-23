@@ -1,0 +1,40 @@
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\HelloWorld Web API.exe
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\HelloWorld Web API.deps.json
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\HelloWorld Web API.runtimeconfig.json
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\HelloWorld Web API.runtimeconfig.dev.json
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\HelloWorld Web API.dll
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\HelloWorld Web API.pdb
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.csprojAssemblyReference.cache
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.AssemblyInfoInputs.cache
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.AssemblyInfo.cs
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.RazorTargetAssemblyInfo.cache
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\staticwebassets\HelloWorld Web API.StaticWebAssets.Manifest.cache
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\staticwebassets\HelloWorld Web API.StaticWebAssets.xml
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.dll
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.pdb
+C:\Users\keith\source\repos\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.genruntimeconfig.cache
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\HelloWorld Web API.exe
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\HelloWorld Web API.deps.json
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\HelloWorld Web API.runtimeconfig.json
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\HelloWorld Web API.runtimeconfig.dev.json
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\HelloWorld Web API.dll
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\bin\Debug\netcoreapp3.1\HelloWorld Web API.pdb
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.AssemblyInfoInputs.cache
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.AssemblyInfo.cs
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.csproj.CoreCompileInputs.cache
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.RazorTargetAssemblyInfo.cache
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\staticwebassets\HelloWorld Web API.StaticWebAssets.Manifest.cache
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\staticwebassets\HelloWorld Web API.StaticWebAssets.xml
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.dll
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.pdb
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.genruntimeconfig.cache
+C:\Users\JohnV\Downloads\HelloWorld\HelloWorld\HelloWorld Web API\obj\Debug\netcoreapp3.1\HelloWorld Web API.csprojAssemblyReference.cache
