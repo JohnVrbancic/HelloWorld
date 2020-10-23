@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JohnV\\Downloads\\HelloWorld\\HelloWorld\\HelloWorldConsole\\HelloWorldRunner.csproj": {}
+    "C:\\Repo\\HelloWorld\\HelloWorldConsole\\HelloWorldRunner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JohnV\\Downloads\\HelloWorld\\HelloWorld\\HelloWorldConsole\\HelloWorldRunner.csproj": {
+    "C:\\Repo\\HelloWorld\\HelloWorldConsole\\HelloWorldRunner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JohnV\\Downloads\\HelloWorld\\HelloWorld\\HelloWorldConsole\\HelloWorldRunner.csproj",
+        "projectUniqueName": "C:\\Repo\\HelloWorld\\HelloWorldConsole\\HelloWorldRunner.csproj",
         "projectName": "HelloWorldRunner",
-        "projectPath": "C:\\Users\\JohnV\\Downloads\\HelloWorld\\HelloWorld\\HelloWorldConsole\\HelloWorldRunner.csproj",
+        "projectPath": "C:\\Repo\\HelloWorld\\HelloWorldConsole\\HelloWorldRunner.csproj",
         "packagesPath": "C:\\Users\\JohnV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JohnV\\Downloads\\HelloWorld\\HelloWorld\\HelloWorldConsole\\obj\\",
+        "outputPath": "C:\\Repo\\HelloWorld\\HelloWorldConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bhQrWxn4HMgpx73cn/Yz+jOj5KtqyandyoVaEW4proXM09Zf0Er0QIvUJ2v/0v5bSvFOtl2nhi8ShlFqS9hFzQ==",
+  "dgSpecHash": "I1YiyruVVxNs9FQwVByBf+wjfry/Ffif0JEYaRWFlJxgX9elBsoDHG0z+pS9r2st3Nf5X7PLfcNrPrqJuU5tvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JohnV\\Downloads\\HelloWorld\\HelloWorld\\HelloWorldConsole\\HelloWorldRunner.csproj",
+  "projectFilePath": "C:\\Repo\\HelloWorld\\HelloWorldConsole\\HelloWorldRunner.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JohnV\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
     "C:\\Users\\JohnV\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",

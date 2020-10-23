@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ll8ftl0AC32sMLHk//Cnyi4CK7qPXzMRa2Fk7ocTZQmzCaCHHw16mApIDLBADlEoVyQkY4InQhq1jeqK266X0A==",
+  "dgSpecHash": "qBYCHn+9D8cnsnE+0lD2ywjqIZogdosH6SvOzY7ekzp3hXjSI3qo1EOu+vUdK3BJZHph1X1KemCFw2cZ85LnKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JohnV\\Downloads\\HelloWorld\\HelloWorld\\UnitTestHelloWOrld\\UnitTestHelloWorld.csproj",
+  "projectFilePath": "C:\\Repo\\HelloWorld\\UnitTestHelloWOrld\\UnitTestHelloWorld.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JohnV\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\JohnV\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

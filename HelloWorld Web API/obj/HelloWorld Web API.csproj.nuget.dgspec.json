@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JohnV\\Downloads\\HelloWorld\\HelloWorld\\HelloWorld Web API\\HelloWorld Web API.csproj": {}
+    "C:\\Repo\\HelloWorld\\HelloWorld Web API\\HelloWorld Web API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JohnV\\Downloads\\HelloWorld\\HelloWorld\\HelloWorld Web API\\HelloWorld Web API.csproj": {
+    "C:\\Repo\\HelloWorld\\HelloWorld Web API\\HelloWorld Web API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JohnV\\Downloads\\HelloWorld\\HelloWorld\\HelloWorld Web API\\HelloWorld Web API.csproj",
+        "projectUniqueName": "C:\\Repo\\HelloWorld\\HelloWorld Web API\\HelloWorld Web API.csproj",
         "projectName": "HelloWorld Web API",
-        "projectPath": "C:\\Users\\JohnV\\Downloads\\HelloWorld\\HelloWorld\\HelloWorld Web API\\HelloWorld Web API.csproj",
+        "projectPath": "C:\\Repo\\HelloWorld\\HelloWorld Web API\\HelloWorld Web API.csproj",
         "packagesPath": "C:\\Users\\JohnV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JohnV\\Downloads\\HelloWorld\\HelloWorld\\HelloWorld Web API\\obj\\",
+        "outputPath": "C:\\Repo\\HelloWorld\\HelloWorld Web API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
